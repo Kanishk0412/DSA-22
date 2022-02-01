@@ -1,2 +1,5 @@
 # Ignore all .exe Files.
 *.exe
+
+# VS Code Files
+*.vscode
